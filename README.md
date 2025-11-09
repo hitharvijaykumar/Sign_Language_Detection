@@ -1,5 +1,3 @@
-<img width="1385" height="128" alt="image" src="https://github.com/user-attachments/assets/f03e5c6b-db33-464d-b654-2fddcc596786" />Sign Language Detection – Real Time (CNN + OpenCV + CVZone)
-
 This project performs real-time Sign Language Recognition using a Convolutional Neural Network (CNN) and a webcam.
 The model is trained on the Sign Language MNIST dataset and predicts A-Z hand signs.
 
