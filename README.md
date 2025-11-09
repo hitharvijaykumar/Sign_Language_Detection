@@ -48,7 +48,7 @@ Then run:
 
 python realtime_sign.py
 
-🖥️ Code Overview (Real-time Script)
+Code Overview (Real-time Script)
 
 The script:
 
@@ -64,7 +64,7 @@ Displays the detected label on the video feed
 
 Press q to exit the application.
 
-🔠 Label Mapping (Model Output → Alphabet)
+Label Mapping (Model Output → Alphabet)
 
 We convert model predictions to letters:
 
